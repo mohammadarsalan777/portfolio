@@ -5,11 +5,11 @@ import Reveal from '../components/Reveal'
 import SectionHeading from '../components/SectionHeading'
 
 const contactInfo = [
-  { icon: FiPhone, label: 'Phone', value: '+91 98765 43210' },
-  { icon: FiMail, label: 'Email', value: 'arsalan.dev@example.com' },
+  { icon: FiPhone, label: 'Phone', value: '+91 8766584560' },
+  { icon: FiMail, label: 'Email', value: 'mohdarsalan391@gmail.com' },
   { icon: FiMapPin, label: 'Location', value: 'India' },
-  { icon: FiLinkedin, label: 'LinkedIn', value: 'linkedin.com/in/mohammadarsalan' },
-  { icon: FiGithub, label: 'GitHub', value: 'github.com/mohammadarsalan' },
+  { icon: FiLinkedin, label: 'LinkedIn', value: 'https://www.linkedin.com/in/mohammad-arsalan-408762256/ ' },
+  { icon: FiGithub, label: 'GitHub', value: 'https://github.com/mohammadarsalan777/' },
 ]
 
 const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID'

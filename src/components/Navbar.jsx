@@ -10,7 +10,7 @@ const navLinks = [
   { id: 'projects', label: 'Projects' },
   { id: 'services', label: 'Services' },
   { id: 'experience', label: 'Experience' },
-  { id: 'testimonials', label: 'Testimonials' },
+  // { id: 'testimonials', label: 'Testimonials' },c
   { id: 'contact', label: 'Contact' },
 ]
 
@@ -41,7 +41,8 @@ export default function Navbar() {
           onClick={() => scrollTo('home')}
           className="font-display font-bold text-xl tracking-tight text-white"
         >
-          Mohammad<span className="gradient-text">.dev</span>
+
+          Arsalan<span className="gradient-text">.dev</span>
         </button>
 
         <ul className="hidden md:flex items-center gap-8">

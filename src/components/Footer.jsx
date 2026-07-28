@@ -15,7 +15,7 @@ export default function Footer() {
       <div className="container-x py-14 grid gap-10 md:grid-cols-3">
         <div>
           <span className="font-display font-bold text-xl text-white">
-            Mohammad<span className="gradient-text">.dev</span>
+            Arsalan<span className="gradient-text">.dev</span>
           </span>
           <p className="mt-3 text-muted text-sm max-w-xs">
             Full Stack MERN Developer crafting scalable, high-performance web applications.

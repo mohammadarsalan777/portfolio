@@ -41,16 +41,29 @@ export const services = [
 ]
 
 export const experience = [
+
   {
     role: 'Full Stack Developer',
     company: 'Nass Technologies',
-    period: '2023 — Present',
+    period: '2023 — 2025',
     points: [
       'Developed MERN applications used by real production teams',
       'Built REST APIs powering multiple client-facing products',
       'Designed responsive UI systems shared across projects',
       'Worked with MongoDB for scalable schema design',
       'Integrated secure authentication and authorization flows',
+    ],
+  },
+  {
+    role: 'Machine Learning Intern',
+    company: 'Verzeo',
+    period: '2022 — 2023',
+    points: [
+      'Completed hands-on training in Machine Learning using Python',
+      'Performed Exploratory Data Analysis (EDA) on real-world datasets',
+      'Built predictive models using Scikit-learn and Pandas',
+      'Developed a Banking Behavioral Scorecard as the major project',
+      'Applied data preprocessing, feature engineering, and model evaluation techniques',
     ],
   },
 ]
@@ -80,22 +93,22 @@ export const testimonials = [
 ]
 
 export const certificates = [
-  { title: 'Full Stack Web Development', issuer: 'Coding Ninjas', year: '2023' },
-  { title: 'MongoDB Associate Developer', issuer: 'MongoDB University', year: '2023' },
+  { title: 'Full Stack Web Development', issuer: 'Nass Technologies', year: '2023' },
   { title: 'JavaScript Algorithms & Data Structures', issuer: 'freeCodeCamp', year: '2022' },
   { title: 'React — Advanced Concepts', issuer: 'Udemy', year: '2024' },
+  { title: "Machine Learning with Python", issuer: "Verzeo", year: "2023" },
 ]
 
 export const stats = [
   { label: 'Years Experience', value: 2, suffix: '+' },
-  { label: 'Projects', value: 20, suffix: '+' },
+  { label: 'Projects', value: 10, suffix: '+' },
   { label: 'Technologies', value: 10, suffix: '+' },
   { label: 'Responsive', value: 100, suffix: '%' },
 ]
 
 export const aboutCards = [
   { label: 'Experience', value: '2+ Years' },
-  { label: 'Projects', value: '20+ Built' },
+  { label: 'Projects', value: '10+ Built' },
   { label: 'Technologies', value: '10+ Tools' },
   { label: 'Location', value: 'India' },
 ]

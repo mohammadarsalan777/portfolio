@@ -47,7 +47,9 @@ export default function About() {
               <div className="absolute -inset-3 rounded-3xl bg-grad-primary opacity-20 blur-2xl" />
               <div className="relative card !p-3">
                 <div className="aspect-[4/5] rounded-xl bg-grad-primary/10 grid place-items-center overflow-hidden">
-                  <span className="font-display font-black text-7xl gradient-text">MA</span>
+                  <span className="font-display font-black text-7xl gradient-text">
+                    <img src="Arsalan.jpg" alt="Arsalan image" className="w-full h-full object-cover rounded-md" />
+                  </span>
                 </div>
               </div>
             </div>

@@ -120,7 +120,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.5 }}
             className="flex flex-wrap gap-4 mb-10"
           >
-            <a href="/resume.pdf" download className="btn-primary">
+            <a href="/Mohammad__Arsalan__Resume.pdf" download className="btn-primary">
               <FiDownload /> Download Resume
             </a>
             <a
@@ -168,7 +168,9 @@ export default function Hero() {
           <div className="absolute inset-0 rounded-full p-1.5 bg-grad-primary animate-gradient-move bg-[length:200%_200%]">
             <div className="w-full h-full rounded-full glass grid place-items-center overflow-hidden">
               <span className="font-display font-black text-8xl gradient-text select-none">
-                MA
+                <img src="Arsalan2.jpg"
+                  className="w-full h-full object-cover rounded-full"
+                  alt=" MA" />
               </span>
             </div>
           </div>

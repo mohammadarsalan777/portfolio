@@ -29,9 +29,9 @@ export default function App() {
         <Projects />
         <Services />
         <Experience />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <Certificates />
-        <GithubStats />
+        {/* <GithubStats /> */}
         <Contact />
       </main>
 

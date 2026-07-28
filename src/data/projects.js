@@ -9,7 +9,7 @@ export const projects = [
     features: ['Employee Management', 'Attendance', 'Payroll', 'Leaves', 'Performance'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
     live: '#',
-    github: '#',
+    github: 'https://github.com/mohammadarsalan777/hrms-mern',
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop',
     features: ['Employer Dashboard', 'Candidate Dashboard', 'Resume Upload', 'Applications'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
-    live: '#',
-    github: '#',
+    live: 'https://job-portal-spmm.onrender.com/e',
+    github: 'https://github.com/mohammadarsalan777/Job-Portal',
   },
 ]
