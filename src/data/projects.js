@@ -44,7 +44,7 @@ export const projects = [
       'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop',
     features: ['Employer Dashboard', 'Candidate Dashboard', 'Resume Upload', 'Applications'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
-    live: 'https://job-portal-spmm.onrender.com/e',
+    live: 'https://job-portal-spmm.onrender.com',
     github: 'https://github.com/mohammadarsalan777/Job-Portal',
   },
 ]
