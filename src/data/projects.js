@@ -5,10 +5,10 @@ export const projects = [
     description:
       'An end-to-end HR platform that centralizes employee records, attendance, payroll runs, leave approvals, and performance reviews for growing teams.',
     image:
-      "public/hrms-login-page.png",
+      "hrms-login-page.png",
     features: ['Employee Management', 'Attendance', 'Payroll', 'Leaves', 'Performance'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
-    live: '#',
+    live: 'https://hrms-mern-ten.vercel.app',
     github: 'https://github.com/mohammadarsalan777/hrms-mern',
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     description:
       'A two-sided hiring platform connecting employers and candidates, with resume uploads, tailored dashboards, and application tracking.',
     image:
-      'public/jobit-image.png',
+      'jobit-image.png',
     features: ['Employer Dashboard', 'Candidate Dashboard', 'Resume Upload', 'Applications'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
     live: 'https://job-portal-spmm.onrender.com',
