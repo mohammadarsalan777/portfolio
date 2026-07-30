@@ -5,7 +5,7 @@ export const projects = [
     description:
       'An end-to-end HR platform that centralizes employee records, attendance, payroll runs, leave approvals, and performance reviews for growing teams.',
     image:
-      'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1200&auto=format&fit=crop',
+      "public/hrms-login-page.png",
     features: ['Employee Management', 'Attendance', 'Payroll', 'Leaves', 'Performance'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
     live: '#',
@@ -41,7 +41,7 @@ export const projects = [
     description:
       'A two-sided hiring platform connecting employers and candidates, with resume uploads, tailored dashboards, and application tracking.',
     image:
-      'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop',
+      'public/jobit-image.png',
     features: ['Employer Dashboard', 'Candidate Dashboard', 'Resume Upload', 'Applications'],
     tech: ['React', 'Node', 'Express', 'MongoDB', 'Tailwind'],
     live: 'https://job-portal-spmm.onrender.com',
